@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-    "model": "gpt-4o-mini",
+    "model": "gpt-5.4-mini",
     "api_key_env": "OPENAI_API_KEY",
     "language": "zh"
   },
