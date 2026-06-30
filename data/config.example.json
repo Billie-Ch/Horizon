@@ -2,7 +2,7 @@
   "ai": {
     "provider": "openai",
      "base_url": "https://www.tokenrouter.tech/v1", 
-    "model": "gpt-5.4-mini",
+    "model": "gpt-4o-mini",
     "api_key_env": "OPENAI_API_KEY",
     "language": "zh"
   },
