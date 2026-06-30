@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-     "base_url": "https://cdn.juaiapi.com/v1", 
+     "base_url": "https://www.tokenrouter.tech/v1", 
     "model": "gpt-5.4-mini",
     "api_key_env": "OPENAI_API_KEY",
     "language": "zh"
