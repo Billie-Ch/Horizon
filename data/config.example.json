@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-     "base_url": "https://cdn.juaiapi.com/v1",  <-- 加上这一行！
+     "base_url": "https://cdn.juaiapi.com/v1", 
     "model": "gpt-5.4-mini",
     "api_key_env": "OPENAI_API_KEY",
     "language": "zh"
